@@ -68,10 +68,4 @@ DECISION_LOG.md
 * **All 108 payment amounts in the pack equal the totals our engine computes** (the pack generated them from the official totals), including bills that carry interest.
 * Second implementation (`standalone/`) gives byte-identical `bills.csv` and `collection_summary.csv`.
 
-## Submission checklist
 
-- [x] Source code, README, design document PDF, test suite, decision log
-- [ ] 5-minute demo video link: `<add link>` (script in `docs/viva_prep.md`)
-- [ ] Repo `E035-ECE-023` shared with support@10seconds.co.in; final email subject "E035 - Final Submission"
-
-Not implemented (stretch): subsidy under 40 units, 30/60/90 arrears ageing (extension points in the design document).
