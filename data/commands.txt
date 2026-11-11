@@ -1,0 +1,10 @@
+# ECE-023 command file - load the three input files, generate bills month by month, then the collection summaries
+LOAD_CONSUMERS|consumers.csv
+LOAD_READINGS|readings.csv
+LOAD_PAYMENTS|payments.csv
+GENERATE_BILLS|2026-08
+GENERATE_BILLS|2026-09
+GENERATE_BILLS|2026-10
+COLLECTION_SUMMARY|2026-08
+COLLECTION_SUMMARY|2026-09
+COLLECTION_SUMMARY|2026-10
