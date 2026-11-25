@@ -69,4 +69,3 @@ DECISION_LOG.md
 * Second implementation (`standalone/`) gives byte-identical `bills.csv` and `collection_summary.csv`.
 
 The link to the demo video for the project is 
-https://drive.google.com/file/d/1SB_ru68z2FvulPAycsURL69paC_vD_Z-/view?usp=drivesdk
