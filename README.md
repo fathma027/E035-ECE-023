@@ -68,4 +68,5 @@ DECISION_LOG.md
 * **All 108 payment amounts in the pack equal the totals our engine computes** (the pack generated them from the official totals), including bills that carry interest.
 * Second implementation (`standalone/`) gives byte-identical `bills.csv` and `collection_summary.csv`.
 
-
+The link to the demo video for the project is 
+https://drive.google.com/file/d/1SB_ru68z2FvulPAycsURL69paC_vD_Z-/view?usp=drivesdk
